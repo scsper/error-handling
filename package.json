@@ -1,0 +1,19 @@
+{
+  "name": "error-handling",
+  "version": "0.0.0",
+  "description": "A sandbox for error handling in express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scsper/error-handling.git"
+  },
+  "author": "Scott Sperling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scsper/error-handling/issues"
+  },
+  "homepage": "https://github.com/scsper/error-handling"
+}
